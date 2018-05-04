@@ -1,1 +1,4 @@
-# scrapy
+文件中主要是scrapy框架的基本使用，pipeline.py中包含了将数据持久化的操作
+存入了三个数据库：MongoDB,MYSQL,Redis
+spider文件中包含了对主页以及每一本书的详情页进行的操作。
+初学小白，程序极简
