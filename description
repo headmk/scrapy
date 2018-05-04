@@ -1,0 +1,1 @@
+文件中主要是scrapy框架的基本使用，pipeline.py 中包含了将数据持久化的操作，即存入数据库MongoDB,MYSQL,Redis
